@@ -1,0 +1,5 @@
+Portafolio Cristian Briones — v10 ComoyComo
+
+1. Descomprime el ZIP.
+2. Abre index.html con Google Chrome.
+3. Para GitHub/Vercel, sube index.html a la raíz del repositorio.
